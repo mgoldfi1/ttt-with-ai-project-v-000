@@ -2,8 +2,8 @@ class Players::Computer < Player
 
 
 def move(board)
-  a = (1..9).to_a.sample
-  a-1
+  output = (1..9).to_a.sample.to_s
+
 end
 
 
