@@ -53,7 +53,6 @@ else
   turn
 end
 board.display
-
 end
 
 
