@@ -56,6 +56,7 @@ board.display
 end
 
 def play
+turn until over?
 end
 
 
