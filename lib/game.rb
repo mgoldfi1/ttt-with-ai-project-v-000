@@ -55,6 +55,9 @@ end
 board.display
 end
 
+def play
+end
+
 
 
 
